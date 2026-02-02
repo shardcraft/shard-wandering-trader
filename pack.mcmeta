@@ -1,6 +1,8 @@
 {
   "pack": {
-    "pack_format": 48,
+    "pack_format": 94,
+    "min_format":94,
+    "max_format":94,
     "description": "A Minecraft data pack that modifies the trades of Wandering Traders."
   }
 }
